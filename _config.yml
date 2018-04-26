@@ -21,7 +21,7 @@ description: "OpenCon Satellite, Bern, Sep 21-22 2018"
 source_link: "https://openconch.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/touch-icon.png"
-google_analytics_key: ## 
+google_analytics_key: "UA-118294541-1"
 
 
 ### template colors, used site-wide via css ###
