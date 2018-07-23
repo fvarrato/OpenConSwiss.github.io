@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '.gitignore']
 title: "OpenCon Switzerland 2018"
 email: "openconswiss@gmail.com"
 description: "OpenCon Satellite Switzerland 2018, Sep 21-22, Bern"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "https://openconswiss.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-122622138-1"
