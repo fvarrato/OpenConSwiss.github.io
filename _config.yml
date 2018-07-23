@@ -1,39 +1,277 @@
----
+# Plugins
+gems:
+- jekyll-sitemap
+safe: true
 
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
-timezone: null
-lsi: false
+# Build Settings
 markdown: kramdown
-highlighter: rouge
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '.gitignore']
 
+# Site Settings
+title: "OpenCon Switzerland 2018"
+email: "openconswiss@gmail.com"
+description: "OpenCon Satellite Switzerland 2018, Sep 21-22, Bern"
+baseurl: "/zeppelin"
+url: "https://openconswiss.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-122622138-1"
+googleAnalyticsSiteUrl: "openconswiss.github.io"
+siteVerification: "MJX2om4h0wnlu3lmiu_B7Iee1Wd-5PsepGt7pRb1Sgc"
 
-### content configuration ###
-title:       "OpenCon Switzerland 2018"
-keywords:    "OpenCon, Switzerland, Conference, Satellite"
-description: "OpenCon Satellite, Bern, Sep 21-22 2018"
-source_link: "https://openconch.github.io"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/touch-icon.png"
-google_analytics_key: UA-118294541-1
+# Organizer Info
+organizerName: "OpenCon 2018 Switzerland"
+organizerAlternateName: "OpenCon Satellite Switzerland 2018"
+organizerDescription: "OpenCon Satellite Switzerland 2018"
+organizerEmail: "openconswiss@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://openconswiss.github.io/"
 
+# Head
+metaKeywords: "conference, opencon, opencon 2018, satellite conferernce, open access, switzerland"
+twitterAccount: "@open_con"
+socialImag  eSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-### template colors, used site-wide via css ###
-colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+# Documents
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
-kramdown:
-  auto_ids:  false
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ # - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/hackathon/", text: "Hackathon"}
+bottomNavigationLinks:
+ - {permalink: "/schedule/", text: "Schedule"}
+rightNavigationButtons:
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link", text: "Register Here"}
 
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "OpenCon <typeout> 2018"
+eventDate: "21 - 22 September, 2018"
+typeoutTextValues: '"", "Switzerland", "Bern", "Satellite", "CH"'
+typeoutFallback: "Season"
+heroButtons:
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link", text: "Register Here"}
+ - {permalink: "/schedule/", text: "Schedule"}
+
+# About Block
+aboutTitle: "About GDG DevFest"
+aboutBlock:
+aboutTitle: "About OpenCon"
+aboutBlock:
+ - {title: "What is it?", image: "what.jpg", text: "<a href='http://www.opencon2018.org' target='_blank'>OpenCon</a> is a platform for the next generation to learn about Open Access, Open Education and Open Data, develop critical skills and catalyse action toward a more open system for sharing the world’s information -- from scholarly and scientific research, to educational materials, to digital research data."}
+ - {title: "Why in Switzerland?", image: "why.jpg", text: "It is time for Switzerland to have its own forum and give a chance for open advocates in the country to meet and discuss. Thanks to support from the Swiss National Science Foundation, the OpenCon Switzerland satellite event will happen in Bern and will bring open science practictioners together with individuals advocating for openness in other contexts." }
+ - {title: "Why attend?", image: "who.jpg", text: "OpenCon is for the next-generation of open science advocates. They can be early career researchers - from doctoral students to young PIs, librarians, individuals working in the publishing industry, policy advisors and administrators involved in setting the open science or open government agendas, and anyone from the civil society pushing for a more open government." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "80", specialCharacter: "+", info: "attendees"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from Switzerland and beyond"}
+ - {count: "2", specialCharacter: "", info: "days", detail: "about Open Science and Friends"}
+
+# Latest News Block
+# latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Swiss National Science Foundation"
+eventLocationLink: "http://www.snf.ch/en/Pages/default.aspx"
+eventStreetAddress: "21b Wildhainweg"
+eventAddressLocality: "Bern"
+eventAddressLocalityRegion: "Bern"
+eventPostalCode: "3001"
+eventAddressCountry: "Switzerland"
+eventStartTime: "2018-09-21T09:00"
+eventDoorTime: "08:30"
+eventEndTime: "2018-09-22T18:30"
+eventPlaceCoordinates: "46.95051, 7.43136"
+mapCenterCoordinates: "46.95051, 7.43136"
+mapMobileCenterCoordinates: "46.95051, 7.43136"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.png"
+venueSmallImage1: "venue_1.png"
+venueSmallImage2: "venue_2.png"
+venueTitle: "Swiss National Science Foundation"
+venueFeatures: ["1 plenary room", "3 workshop rooms", "5-min walk from the train station."]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "openconswiss18"
+# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Register"
+subscribeAction: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link"
+subscribeInfo: "Registration will be open until August 31st, at 12.00pm. Number of places are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.snf.ch/en/Pages/default.aspx", text: "Swiss National Science Foundation"}
+   - {link: "https://www.opencon2018.org/", text: "OpenCon2018"}
+   - {link: "https://sparcopen.org/", text: "SPARC"}
+   - {ling: "http://www.righttoresearch.org/", text: "The Right to Research Coalition"}
+ -
+  title: "Contact"
+  links:
+   - {link: "mailto:openconswiss@gmail.com", text: "openconswiss@gmail.com"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "openconswiss18"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: ""
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+# findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "46.95051, 7.43136"
+logisticsMapMobileCenterCoordinates: "46.95051, 7.43136"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Bern"
+directionDetailsCards:
+ - {title: "From Bern train station", information: "Walk up the 'Welle' pedestrian overpass above Platforms 1-13 and the stairs towards Länggasse. Turn left and follow the train tracks along Stadtbachstrasse. After about 300 m, you find Wildhainweg on the right. <a href='https://www.google.com/maps/d/viewer?mid=1RXpVn2YikTTuXxOrG_gP2bcYVt8&ll=46.949668959473904%2C7.433463799999913&z=17' target='_blank'>See map</a>."}
+directionDetailsWideCards:
+ -
+  title: "Good to know"
+  subCards:
+   -
+    title: "Trains"
+    links:
+     - {link: "https://www.sbb.ch/en/timetable.html", text: "Lausanne-Bern: 07:20-08:26"}
+     - {link: "https://www.sbb.ch/en/timetable.html", text: "Zurich-Bern: 07:32-08:28"}
+     - {link: "https://www.sbb.ch/en/timetable.html", text: "Basel-Bern: 07:28-08:24"}
+     - {link: "https://www.sbb.ch/en/timetable.html", text: "Neuchâtel-Bern: 07:59-08:47"}
+   -
+    title: "Accommodation"
+    links:
+     - {link: "http://www.ampavillon.ch", text: "am Pavillon"}
+     - {link: "http://www.hotelmetropole.ch", text: "Hotel Metropole"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our projects"
+hackathonRows:
+ - {title: "", details: ""}
+ - {title: "", image: "", details: ""}
+ - {title: "", image: "", details: ""}
+
+# Hackathon Judges Block
+judgesImage: ""
+judgesTitle: "No Judging"
+
+# Hackathon Prizes Block
+prizesTitle: "Hall-of-fame"
+prizes:
+ - {title: "2nd Place", image: "", info: ""}
+ - {title: "1nd Place", image: "", info: ""}
+ - {title: "3nd Place", image: "", info: ""}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Bern"
+hackathonLocationLink: ""
+hackathonStreetAddress: "Wildhainweg 21b"
+hackathonAddressLocality: "Bern"
+hackathonAddressLocalityRegion: "Bern"
+hackathonPostalCode: "3001"
+hackathonAddressCountry: "Switzerland"
+hackathonTimeTitle: "Do-a-thon"
+hackathonStartTime: "2018-09-22T12:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2018-09-22T18:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "46.95051, 7.43136"
+hackathonMapCenterCoordinates: "46.95051, 7.43136"
+hackathonMapMobileCenterCoordinates: "46.95051, 7.43136"

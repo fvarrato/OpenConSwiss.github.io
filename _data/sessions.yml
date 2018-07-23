@@ -1,0 +1,161 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees."
+-
+  id: 308
+  title: "Doors open and Coffee"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Hall"
+  service: true
+-
+  id: 703
+  title: "Getting to know the participants"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees (without coffee)."
+-
+  id: 743
+  title: "Drinks at <a href='https://www.turnhalle.ch' target='_blank'>Turnhalle</a>"
+  place: "Hall"
+  service: true
+  description: ""
+-
+  id: 750
+  title: "Warm-up and short pitches"
+  place: "Plenary Room"
+  service: true
+  description: ""
+-
+  id: 775
+  title: "Unconference"
+  place: "Workshop Rooms"
+  service: true
+  description: "Possible formats include: (1) Discussions organised by participants, planned according to popularity, (2) Do-a-thon: day-long hands-on activity on some of the projects presented in short talks the day before, (3) Workshop and tutorials (max 45 minutes): short (practical) introduction to a tool or a concept any participant wants to share with the others."
+-
+  id: 777
+  title: "Closing"
+  place: "Plenary Room"
+  service: true
+  description: ""
+-
+  id: 001
+  title: "Introduction"
+  description: ""
+  subtype: varia
+  speakers: [18]
+-
+  id: 002
+  title: "Welcome Address"
+  description: "The role of the SNSF in promoting Open Research and Culture"
+  subtype: varia
+  speakers: [9]
+-
+  id: 003
+  title: "What is OpenCon?"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+-
+  id: 004
+  title: "My experience as an Open Science community manager"
+  description: "Science in the 21st century is becoming increasingly collaborative and open in nature. Consequently, the advancement of a research field should be measured not only by scientific output but also by the level of participation of its community members. Hence, a successful community should be able to promote equal participation from its community members independent of the factors such as geographic location, gender, ethnicity and social background. In my talk I will explore inclusiveness as one of the key features of open source community and share some of the lessons learned while adopting them in my work as a community manager."
+  subtype: keynote
+  speakers: [8]
+-
+  id: 005
+  title: "Using open data to track and predict infectious disease"
+  description: "As pathogens replicate and spread, their genomes accumulate mutations. Such sequence data are increasingly used to track the spread of pathogens which in turn can inform public health public health interventions. Historically, however, sequencing and analysis has lagged months-to-years behind sample collection. We have developed automated analysis pipelines process openly available sequence data. The results are visualised in an interactive web application <a href='https://nextstrain.org/' target='_blank'>nextstrain.org</a>. Intuitive and interpretable visualizations like nextstrain are key to turn data into actionable results that public health officials can build upon."
+  subtype: keynote
+  speakers: [10]
+-
+  id: 006
+  title: "Open Access in Switzerland: The Endgame"
+  description: "The high-level goals are set. According to the <a href='https://www.swissuniversities.ch/fileadmin/swissuniversities/Dokumente/Hochschulpolitik/Open_Access/Open_Access_strategy_final_e.pdf' target='_blank'>Swiss National Strategy on Open Access</a>, all scholarly publications funded by public money must be freely accessible on the internet by 2024. The Swiss National Science Foundation (SNSF) even wants to reach <a href='www.snf.ch/en/theSNSF/research-policies/open-access/Pages/default.aspx' target='_blank'>100% OA by 2020</a> for all publications that result out of SNSF funded projects. How can these goals be put into practice?"
+  subtype: presentation
+  speakers: [3]
+-
+  id: 007
+  title: "Building a data ecosystem: the open government side"
+  description: "Opendata.swiss is where everyone can find Swiss open government data. Making data open is only partially an “IT matter”: While data are the main product, we also have to deal with legal, organizational and cultural challenges. It is a journey in discovering the potential of our data and making this potential available to anyone, but at the same ensuring that requirements in data protection and quality are met. Where do you start?"
+  subtype: presentation
+  speakers: [16]
+-
+  id: 008
+  title: "Autonomous Scholarly Web"
+  description: "In this talk we will discuss the realisation of a social scholarly information space that is completely driven by autonomous and interoperable open Web standards. What are the effects and artefacts of such paradigm? How is it different than the plethora of existing services and platforms? Why would a researcher-centric approach to scholarly communication be desirable?"
+  subtype: presentation
+  speakers: [12]
+-
+  id: 009
+  title: "The Role of Swiss Libraries in the Future of Open Science"
+  description: "Scholarly communication and the development of open science are currently undergoing a crucial shift: Now that open access is widely recognised and practiced, researchers, libraries and publishers vie for control over digital research infrastructure. New demands for open data and open access compliance from funding instruments add to the complexity of this competition. This talk will sketch out how Switzerland’s university libraries can contribute open alternatives to prorietary, closed products."
+  subtype: presentation
+  speakers: [2]
+-
+  id: 010
+  title: "My career as an open brain-for-hire"
+  description: "Tim Head will talk about why he thinks he can have more impact on the progress of science by not being a professional academic. Being a brain-for-hire has its own challenges but brings several benefits compared to life as a post-doc."
+  subtype: presentation
+  speakers: [15]
+-
+  id: 011
+  title: "Sharing code with rOpenSci"
+  description: ""
+  subtype: presentation
+  speakers: [5]
+-
+  id: 012
+  title: "An Overview of Swiss Open Data"
+  description: ""
+  subtype: presentation
+  speakers: [4]
+-
+  id: 013
+  title: "The Global Open Science Hardware Roadmap"
+  description: "The ability to use, study, replicate, and improve scientific instrumentation is a central part of experimental science, and plays a crucial role in education, research and action that are all critical to achieving scientific and development goals. However, these activities are currently restricted by proprietary instrumentation, which is difficult and expensive to obtain and maintain, since it cannot be fully inspected, evaluated, or customised. This situation is fundamentally detrimental to the production of knowledge in the global South and the potential for diverse actors to create equitable and sustainable solutions to local and international problems. Open Science Hardware (OScH) is one solution to promoting global access to hardware for science by freely sharing designs and protocols for instrumentation. The Global Open Science Hardware Roadmap is a collaborative community initiative involving 100 contributors from 30 countries that describes what is required for OScH to become ubiquitous by 2025."
+  subtype: presentation
+  speakers: [6]
+-
+  id: 014
+  title: "Sharing Open Research Data: how far can we go?"
+  description: "Stéphane Joost will share the unexpected challenges he and his colleagues faced when publishing research data and how they overcame them."
+  subtype: presentation
+  speakers: [13]
+-
+  id: 015
+  title: "Making Open Science good for scientists"
+  description: "Just as the open access movement is forcing the scientific community to reconsider the traditional review/publication process, open data policies are highlighting the inadequacies of how scientific productivity is measured, especially in the context of large science projects. The open science paradigm can be better for both science and scientists, but institutes adopting open data policies must also recognise that doing science is often more than just doing research and publishing papers. Without such changes the (old) arguments for not sharing data to protect the careers of (young) scientists will continue to have weight."
+  subtype: presentation
+  speakers: [11]
+-
+  id: 016
+  title: "Design Thinking for Open Research and Education"
+  description: "What do we mean by 'Design Thinking' or 'Human Centred Design' and why might this approach be useful for Open Research & Open Education?"
+  subtype: workshop
+  speakers: [7]
+-
+  id: 017
+  title: "WeScientists 2035 Research Culture Workshops"
+  description: "The #WeScientists2035 workshops use speculative design scenarios to encourage novel thinking about what an idealised research culture would look like in 27 years time - with the aim to implement small changes today. The focus of the workshops at OpenCon will be open science, open data, research integrity and publication culture, which are all fundamental pillars of research culture."
+  subtype: workshop
+  speakers: [14]
+-
+  id: 018
+  title: "Short presentation of ScienceGeist"
+  description: "A Swiss Army knife for science policy."
+  subtype: presentation
+  speakers: [17]
+-
+  id: 101
+  title: "Closing"
+  description: "Announcements for next day"
+  subtype: varia
+  speakers: [7]

@@ -1,0 +1,8 @@
+-
+  group: "Main organizer"
+  elements:
+    - {name: "Luc Henry", description: "Open Science Advisor", link: "https://twitter.com/helluc", imageUrl: "Luc.jpg"}
+-
+  group: "Co-organizer"
+  elements:
+    - {name: "Joao Martins", description: "Data Scientist", link: "https://twitter.com/rambujo", imageUrl: "Joao.jpg"}

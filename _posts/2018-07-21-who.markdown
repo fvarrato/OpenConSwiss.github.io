@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Who Should Attend?"
+date:   2018-07-21 09:00:00
+isStaticPost: false
+---
+
+OpenCon is for the next-generation of open science advocates. They can be early career researchers - from doctoral students to young PIs, librarians, individuals working in the publishing industry, policy advisors and administrators involved in setting the open science or open government agendas, and anyone from the civil society pushing for a more open government.

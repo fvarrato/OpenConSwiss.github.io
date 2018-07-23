@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why OpenCon Switzerland?"
+date:   2018-07-21 08:00:00
+isStaticPost: false
+---
+
+It is time for Switzerland to have its own forum and give a chance for open advocates in the country to meet and discuss. Thanks to support from the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx), the OpenCon Switzerland satellite event will happen in Bern and will bring open science practictioners together with individuals advocating for openness in other contexts.
+
+We believe such a forum will catalyse a debate at the national level and provide the opportunity for next-generation open science advocates to meet and connect within Switzerland, and with the international community.

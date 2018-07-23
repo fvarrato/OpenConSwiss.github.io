@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "What is OpencCon?"
+date:   2018-07-21 09:00:00
+isStaticPost: false
+---
+
+"[OpenCon](http://www.opencon2017.org "OpenCon Homepage") is a platform for the next generation to learn about Open Access, Open Education and Open Data, develop critical skills and catalyse action toward a more open system for sharing the world’s information -- from scholarly and scientific research, to educational materials, to digital research data."
+
+OpenCon is an annual event where individuals involved in projects advancing the state of open science meet to discuss best practice, share experience with others, get inspired and get things done! Throughout the year, satellite events give a chance to the community to meet locally and keep on working on these issues.

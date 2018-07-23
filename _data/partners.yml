@@ -1,0 +1,9 @@
+-
+  group: "Support by"
+  elements:
+    - {name: "SNSF Bern", description: "Swiss National Science Foundation", link: "http://www.snf.ch/en/Pages/default.aspx", imageUrl: "snf.svg"}
+-
+  group: "Information partners"
+  elements:
+    - {name: "OpenCon", description: "OpenCon", link: "https://www.opencon2018.com", imageUrl: "opencon.svg"}
+    - {name: "OpenDataCH", description: "Open Data Switzerland", link: "https://opendata.swiss/en/", imageUrl: "opendataswiss.svg"}

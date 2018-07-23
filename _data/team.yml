@@ -1,0 +1,44 @@
+-
+  id: 0
+  name: "Luc"
+  surname: "Henry"
+  title: "Organizer"
+  thumbnailUrl: Luc.jpg
+  team: true
+  ribbon:
+    - {abbr: "EPFL", title: "EPFL Lausanne"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/helluc"}
+    - {name: "github", link: "https://github.com/henryluc"}
+-
+  id: 1
+  name: "Joao"
+  surname: "Martins"
+  title: "Organizer"
+  thumbnailUrl: Joao.jpg
+  team: true
+  ribbon:
+    - {abbr: "SNSF", title: "SNSF Bern"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/rambujo"}
+    - {name: "github", link: "https://github.com/zambujo"}
+-
+  id: 2
+  name: "Anna"
+  surname: "Severin"
+  title: "Organizer"
+  thumbnailUrl: Anna.jpg
+  team: true
+  ribbon:
+    - {abbr: "SNSNF", title: "SNSF Bern"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/annaseverin"}
+-
+  id: 4
+  name: "Chloe"
+  surname: "Gay-Balmaz"
+  title: "Organizer"
+  thumbnailUrl: Chloe.jpg
+  team: true
+  social:
+    - {name: "twitter", link: ""}

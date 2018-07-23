@@ -1,0 +1,199 @@
+-
+  id: 1
+  name: "Achintya"
+  surname: "Rao"
+  company: "CERN"
+  title: "Science writer"
+  bio: "Achintya Rao is a science writer for CERN, the European laboratory for particle physics in Geneva, Switzerland, and is pursuing a PhD in science communication from the University of the West of England in Bristol, UK. He is interested in open practices across all stages of the research process and has helped build the CERN Open Data portal."
+  thumbnailUrl: Achintya.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/RaoOfPhysics"}
+    - {name: "github", link: "https://github.com/raoofphysics"}
+-
+  id: 2
+  name: "Andrea"
+  surname: "Hacker"
+  company: "University of Bern"
+  title: "Open Access und BOP"
+  bio: "Andrea Hacker joined Bern University's open science team in March 2018 after eight years of open access work as head of the publications office of Heidelberg University’s Cluster of Excellence Asia and Europe in a Global Context. She received her doctorate in Slavic Languages and Literatures from UCLA and taught at institutions in the USA, the Republic of Ireland, Germany and Russia."
+  thumbnailUrl: Andrea.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ahacker"}
+-
+  id: 3
+  name: "Christian"
+  surname: "Gutknecht"
+  company: "SNSF"
+  title: "Science Officer"
+  bio: "Christian is an Open Access Activist since 2008. He worked as repository manager at the University of Zurich (ZORA) and the University of Bern (BORIS). Currently working at the SNSF."
+  thumbnailUrl: Christian.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/chgutknecht"}
+-
+  id: 4
+  name: "Hannes"
+  surname: "Gassert"
+  company: "OpenData.ch"
+  title: ""
+  bio: ""
+  thumbnailUrl: Hannes.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/hannesgassert"}
+-
+  id: 5
+  name: "Julia"
+  surname: "Gustavsen"
+  company: "Sophia Genetics"
+  title: "Software Engineer"
+  bio: ""
+  thumbnailUrl: Julia.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/JuliaGustavsen"}
+-
+  id: 6
+  name: "Julieta"
+  surname: "Arancio"
+  company: "CONICET"
+  title: "Environmental Scientist"
+  bio: "Julieta Arancio is a PhD candidate at the National Scientific and Technical Research Council (CONICET) in Buenos Aires, Argentina, studying the Open Hardware movement in Latin America. With a background in Environmental Science, her work is developed at CENIT - a research center on innovation studies - and also at local spaces where she leads community science projects."
+  thumbnailUrl: Julieta.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/Cassandreces"}
+-
+  id: 7
+  name: "Luc"
+  surname: "Henry"
+  company: "EPFL"
+  title: "Open Science Advisor"
+  bio: ""
+  thumbnailUrl: Luc.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/heluc"}
+-
+  id: 8
+  name: "Malvika"
+  surname: "Sharan"
+  company: "EMBL, Heidelberg"
+  title: "Computational Biologist"
+  bio: "Malvika is a computational biologist at the European Molecular Biology Laboratory, Heidelberg, Germany, where she coordinates the Bio-IT project, a community-driven platform for bioinformaticians. She organizes training activities and events for EMBL, de.NBI/ELIXIR Germany and other open source communities such as The Carpentries. She promotes diversity and open access through her work as a community outreach coordinator."
+  thumbnailUrl: Malvika.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/malvikasharan"}
+    - {name: "github", link: "https://github.com/malvikasharan"}
+-
+  id: 9
+  name: "Matthias"
+  surname: "Egger"
+  company: "SNSF"
+  title: "President of the Swiss Research Council"
+  bio: ""
+  thumbnailUrl: Matthias.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/"}
+-
+  id: 10
+  name: "Richard"
+  surname: "Neher"
+  company: "University of Basel"
+  title: "Physicist"
+  bio: "Richard Neher earned a PhD in Physics from the University of Munich. He
+joined the Biozentrum of the University of Basel as an associate professor in 2017."
+  thumbnailUrl: Richard.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/richardneher"}
+    - {name: "github", link: "https://github.com/neherlab"}
+-
+  id: 11
+  name: "Ronald"
+  surname: "Drimmel"
+  company: "Turin Astrophysical Observatory"
+  title: "Astronomer"
+  bio: ""
+  thumbnailUrl: Ronald.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/rdrimmel"}
+-
+  id: 12
+  name: "Sarven"
+  surname: "Capadisli"
+  company: "TIB, Hannover"
+  title: "Computer Scientist"
+  bio: "Sarven Capadisli is currently writing his PhD thesis with University of Bonn, and researches with TIB, Hannover. His research involves the  <a href = 'https://linkedresearch.org/' target='_blank'>Linked Research</a> initiative and <a href='https://dokie.li/' target='_blank'>dokieli</a> (a clientside editor for decentralised article publishing, annotations and social interactions)."
+  thumbnailUrl: Sarven.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/csarven"}
+    - {name: "github", link: "https://github.com/csarven"}
+    - {name: "site", link: "http://csarven.ca/"}
+-
+  id: 13
+  name: "Stéphane"
+  surname: "Joost"
+  company: "EPFL"
+  title: "Quantitative Geographer"
+  bio: "Stéphane Joost is a quantitative geographer, specialized in the analysis of the relationships between living organisms and their environment. He uses Geographic Information Systems (GIS) and spatial statistics for the analysis of genetic and health data (molecular ecology, spatial epidemiology)."
+  thumbnailUrl: Stephane.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/stephanejoost"}
+-
+  id: 14
+  name: "Tania"
+  surname: "Jenkins"
+  company: "sc|nat"
+  title: "Science Policy Advisor"
+  bio: "Tania is a scientist turned science-communicator turned science policy advisor. She has been active in the public engagement of science for the last five years. At SCNAT she develops and leads research culture workshops that aim to create grass-roots change in the science community."
+  thumbnailUrl: Tania.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Tania_Jenkins"}
+-
+  id: 15
+  name: "Tim"
+  surname: "Head"
+  company: "Wild Tree Tech"
+  title: "Data Scientist"
+  bio: "Tim has a PhD in experimental particle physics, after years as a pro-academic he retired from 'the sport' to start his own data engineering consulting company in 2016. Since then he has contributed to several open-source software projects used by researchers, built private tools based on open tools and datasets and helped create <a href='https://mybinder.org/' target='_blank'>mybinder.org</a> a service that let’s anyone run any GitHub repository for free."
+  thumbnailUrl: Tim.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/betatim"}
+    - {name: "github", link: "https://github.com/betatim"}
+-
+  id: 16
+  name: "Juan-Pablo"
+  surname: "Lovato"
+  company: "Swiss Federal Archives"
+  title: "Data Scientist"
+  bio: "Juan-Pablo manages the Swiss open government data project for the Swiss Federal Archives and as such he supports federal offices, cantons, communes as well as state-owned companies in making their data openly available."
+  thumbnailUrl: Juan.jpg
+  rockstar: true
+-
+  id: 17
+  name: "Joao"
+  surname: "Martins"
+  company: "SNSF"
+  title: "Data Analyst"
+  bio: ""
+  thumbnailUrl: Joao.jpg
+  rockstar: false
+-
+  id: 18
+  name: "Anna"
+  surname: "Severin"
+  company: "SNSF"
+  title: "Researcher"
+  bio: ""
+  thumbnailUrl: Anna.jpg
+  rockstar: false

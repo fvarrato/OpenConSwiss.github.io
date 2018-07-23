@@ -1,0 +1,97 @@
+-
+  date: "2018-09-21"
+  dateReadable: "Friday, Sep. 21"
+  tracks:
+    - {title: "Conference", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "09:30",
+    	sessionIds: [001, 002, 003]
+    }
+    - {
+        startTime: "09:30",
+        endTime: "10:00",
+        sessionIds: [004]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [005]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "10:30",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:30",
+    	sessionIds: [703]
+    }
+    - {
+    	startTime: "11:30",
+    	endTime: "12:30",
+    	sessionIds: [006, 007, 008, 009]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:30",
+    	sessionIds: [503]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:30",
+    	sessionIds: [010, 011, 012]
+    }
+    - {
+    	startTime: "14:30",
+    	endTime: "15:00",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "16:00",
+    	sessionIds: [013, 014, 015]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "18:00",
+    	sessionIds: [016, 017]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:30",
+    	sessionIds: [018, 101]
+    }
+    - {
+    	startTime: "18:30",
+    	endTime: "20:30",
+    	sessionIds: [743]
+    }
+-
+  date: "2018-09-22"
+  dateReadable: "Saturday, Sep. 22"
+  tracks:
+    - {title: "Unconference", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	sessionIds: [308]
+    }
+    - {
+    	startTime: "10:00",
+    	endTime: "11:00",
+    	sessionIds: [750]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "18:00",
+    	sessionIds: [775]
+    }
+    - {
+    	startTime: "18:00",
+    	endTime: "18:30",
+    	sessionIds: [777]
+    }
