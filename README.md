@@ -50,9 +50,7 @@ OpenCon Code of Conduct is available [here](https://www.opencon2018.org/code_of_
 
 ## About the Website
 
-
-
-Adapted  [source](https://github.com/gdg-x/zeppelin).
+Adapted from [github.com/gdg-x/zeppelin](https://github.com/gdg-x/zeppelin).
 
 Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
 
