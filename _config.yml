@@ -57,7 +57,7 @@ heroImage: "hero.jpg"
 heroTitle: "OpenCon <typeout> 2018"
 eventDate: "21 - 22 September, 2018"
 typeoutTextValues: '"", "Switzerland", "Bern", "Satellite", "CH"'
-typeoutFallback: "Season"
+typeoutFallback: "Switzerland"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link", text: "Register Here"}
  - {permalink: "/schedule/", text: "Schedule"}
