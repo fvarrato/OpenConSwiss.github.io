@@ -114,7 +114,7 @@ venueFeatures: ["1 plenary room", "3 workshop rooms", "5-min walk from the train
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "openconswiss18"
+twitterHashTag: "OpenConSwitzerland"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -193,7 +193,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "openconswiss18"
+discusShortName: "OpenConSwitzerland"
 
 # Speakers List Block
 showSessions: true
