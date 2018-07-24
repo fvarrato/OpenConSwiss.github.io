@@ -9,7 +9,7 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/RaoOfPhysics"}
-    - {name: "github", link: "https://github.com/raoofphysics"}
+    - {name: "github", link: "https://github.com/RaoOfPhysics"}
 -
   id: 2
   name: "Andrea"
@@ -58,7 +58,7 @@
   id: 6
   name: "Julieta"
   surname: "Arancio"
-  company: "CONICET"
+  company: "CENIT-CONICET"
   title: "Environmental Scientist"
   bio: "Julieta Arancio is a PhD candidate at the National Scientific and Technical Research Council (CONICET) in Buenos Aires, Argentina, studying the Open Hardware movement in Latin America. With a background in Environmental Science, her work is developed at CENIT - a research center on innovation studies - and also at local spaces where she leads community science projects."
   thumbnailUrl: Julieta.jpg
@@ -172,11 +172,11 @@ joined the Biozentrum of the University of Basel as an associate professor in 20
     - {name: "github", link: "https://github.com/betatim"}
 -
   id: 16
-  name: "Juan-Pablo"
+  name: "Juan Pablo"
   surname: "Lovato"
   company: "Swiss Federal Archives"
   title: "Data Scientist"
-  bio: "Juan-Pablo manages the Swiss open government data project for the Swiss Federal Archives and as such he supports federal offices, cantons, communes as well as state-owned companies in making their data openly available."
+  bio: "Juan Pablo manages the Swiss open government data project for the Swiss Federal Archives and as such he supports federal offices, cantons, communes as well as state-owned companies in making their data openly available."
   thumbnailUrl: Juan.jpg
   rockstar: true
 -
