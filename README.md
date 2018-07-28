@@ -61,7 +61,7 @@ OpenCon Code of Conduct is available [here](https://www.opencon2018.org/code_of_
 
 ## About the website
 
-Adapted for the OpenCon Swiss Satellite from the [github.com/gdg-x/zeppelin](https://github.com/gdg-x/zeppelin) template.
+Adapted for the OpenCon Swiss Satellite from the [github.com/gdg-x/zeppelin](https://github.com/gdg-x/zeppelin) template. (An earlier version of the website forked [t413/SinglePaged](https://github.com/t413/SinglePaged).)
 
 Background pictures from [unplash.com](https://unsplash.com/). In no particular order:
 
