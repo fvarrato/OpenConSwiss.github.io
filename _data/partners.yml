@@ -5,5 +5,5 @@
 -
   group: "Information partners"
   elements:
-    - {name: "OpenCon", description: "OpenCon", link: "https://www.opencon2018.com", imageUrl: "opencon.svg"}
+    - {name: "OpenCon", description: "OpenCon", link: "https://www.opencon2018.org", imageUrl: "opencon.svg"}
     - {name: "OpenDataCH", description: "Open Data Switzerland", link: "https://opendata.swiss/en/", imageUrl: "opendataswiss.svg"}
