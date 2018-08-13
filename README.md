@@ -57,7 +57,7 @@ OpenCon Code of Conduct is available [here](https://www.opencon2018.org/code_of_
 
 ### More Information and Contact
 
-[Anna Severin](mailto:anna.severin@snf.ch), [Chloé Gay-Balmaz](mailto:chloe.gay-balmaz@students.unibe.ch), [Joao Martins](mailto:joao.martins@snf.ch) and [Luc Henry](mailto:luc.henry@epfl.ch).
+[Anna Severin](mailto:anna.severin@snf.ch), [Joao Martins](mailto:joao.martins@snf.ch) and [Luc Henry](mailto:luc.henry@epfl.ch).
 
 ## About the website
 

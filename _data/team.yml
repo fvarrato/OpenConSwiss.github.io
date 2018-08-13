@@ -33,12 +33,3 @@
     - {abbr: "SNSNF", title: "SNSF Bern"}
   social:
     - {name: "twitter", link: "https://twitter.com/annaseverin"}
--
-  id: 4
-  name: "Chloe"
-  surname: "Gay-Balmaz"
-  title: "Organizer"
-  thumbnailUrl: Chloe.jpg
-  team: true
-  social:
-    - {name: "twitter", link: ""}
