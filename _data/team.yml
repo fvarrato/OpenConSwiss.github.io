@@ -11,6 +11,17 @@
     - {name: "twitter", link: "https://twitter.com/helluc"}
     - {name: "github", link: "https://github.com/henryluc"}
 -
+  id: 2
+  name: "Anna"
+  surname: "Severin"
+  title: "Organizer"
+  thumbnailUrl: Anna.jpg
+  team: true
+  ribbon:
+    - {abbr: "SNSNF", title: "SNSF Bern"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/annaseverin"}
+-
   id: 1
   name: "Joao"
   surname: "Martins"
@@ -22,14 +33,3 @@
   social:
     - {name: "twitter", link: "https://twitter.com/rambujo"}
     - {name: "github", link: "https://github.com/zambujo"}
--
-  id: 2
-  name: "Anna"
-  surname: "Severin"
-  title: "Organizer"
-  thumbnailUrl: Anna.jpg
-  team: true
-  ribbon:
-    - {abbr: "SNSNF", title: "SNSF Bern"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/annaseverin"}
