@@ -50,7 +50,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link", text: "Register Here"}
+ - {permalink: "/schedule/", text: "Schedule"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,7 +59,7 @@ eventDate: "21 - 22 September, 2018"
 typeoutTextValues: '"", "Switzerland", "Bern", "Satellite", "CH"'
 typeoutFallback: "Switzerland"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd9rF49VUt1PqU85RHu5euW0PMhoQtXyh4ToQDJfTwcstc-dQ/viewform?usp=sf_link", text: "Register Here"}
+ - {permalink: "/logistics/", text: "Getting Here"}
  - {permalink: "/schedule/", text: "Schedule"}
 
 # About Block
