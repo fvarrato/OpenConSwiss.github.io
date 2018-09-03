@@ -235,6 +235,7 @@ directionDetailsWideCards:
     links:
      - {link: "http://www.ampavillon.ch", text: "am Pavillon"}
      - {link: "http://www.hotelmetropole.ch", text: "Hotel Metropole"}
+     - {link: "https://sorellhotels.com/en/ador/bern", text: "Sorell Ador Hotel"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
