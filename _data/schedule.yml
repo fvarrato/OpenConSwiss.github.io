@@ -5,6 +5,11 @@
     - {title: "Conference", color: "#03a9f4"}
   timeslots:
     - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [308]
+    }
+    - {
     	startTime: "09:00",
     	endTime: "09:30",
     	sessionIds: [001, 002, 003]

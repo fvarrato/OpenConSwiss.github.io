@@ -34,15 +34,15 @@
     - {name: "twitter", link: "https://twitter.com/chgutknecht"}
 -
   id: 4
-  name: "Hannes"
-  surname: "Gassert"
+  name: "André"
+  surname: "Golliez"
   company: "OpenData.ch"
   title: ""
-  bio: ""
-  thumbnailUrl: Hannes.jpg
+  bio: "Co-founder and president of the association Opendata.ch"
+  thumbnailUrl: Andre.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/hannesgassert"}
+    - {name: "twitter", link: "https://twitter.com/golliez"}
 -
   id: 5
   name: "Julia"

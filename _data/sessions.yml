@@ -6,7 +6,7 @@
   description: "The best time to talk with speakers and attendees."
 -
   id: 308
-  title: "Doors open and Coffee"
+  title: "Doors open"
   place: "Hall"
   service: true
   description: ""
@@ -114,7 +114,7 @@
 -
   id: 012
   title: "An Overview of Swiss Open Data"
-  description: ""
+  description: "The open data movement in Switzerland is active for over eight years now. Community building, data liberation, political lobbying, conferences, open data hackdays (almost 20!) and other activities have been performed by hundreds of open data activists with a lot of success in the last years. However some limitations of open data in Switzerland are obvious: e.g. the lack of a federal open data legislation or the hesitation of most Swiss private companies to join the open data movement. In the short and midterm future open data should play a key role within a developing Swiss data ecosystem where beside open data also personal data will be used under the control of the individual (&#34;my data&#34;) and private sector enterprises will exchange data under restrictive framework conditions (&#34;shared data&#34;)."
   subtype: presentation
   speakers: [4]
 -
@@ -137,10 +137,10 @@
   speakers: [11]
 -
   id: 016
-  title: "Design Thinking for Open Research and Education"
-  description: "What do we mean by 'Design Thinking' or 'Human Centred Design' and why might this approach be useful for Open Research & Open Education?"
+  title: "Showcasing research with markdown and friends"
+  description: "Using static website technologies to communicate research ideas in a radically open way."
   subtype: workshop
-  speakers: [7]
+  speakers: [17]
 -
   id: 017
   title: "WeScientists 2035 Research Culture Workshops"
@@ -150,7 +150,7 @@
 -
   id: 018
   title: "Short presentation of ScienceGeist"
-  description: "A Swiss Army knife for science policy."
+  description: "The story of a Swiss Army knife for science policy."
   subtype: presentation
   speakers: [17]
 -
