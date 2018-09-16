@@ -47,9 +47,9 @@
   id: 5
   name: "Julia"
   surname: "Gustavsen"
-  company: "Sophia Genetics"
+  company: "SOPHiA GENETICS"
   title: "Software Engineer"
-  bio: ""
+  bio: "Julia Gustavsen is currently a bioinformatician at SOPHiA GENETICS in St. Sulpice, VD where she analyzes next generation sequencing (NGS) data. She received her PhD in biologicial oceanography from the University of British Columbia (Vancouver, B.C., Canada). She is interested in biology, bioinformatics, network biology and coding. She also enjoys doing reviews for ROpenSci and teaching workshops for Software Carpentry."
   thumbnailUrl: Julia.jpg
   rockstar: true
   social:
@@ -71,7 +71,7 @@
   surname: "Henry"
   company: "EPFL"
   title: "Open Science Advisor"
-  bio: ""
+  bio: "Luc Henry is a 35 years old chemist turned journalist turned science policy advisor and entrepreneur working on various projects challenging the status quo in science scholarly communication and research funding. He is an advisor to the President of the EPFL, formerly holding a similar position at the SNSF. His mandate is to draft a pragmatic open science policy for the EPFL and develop a community around it. "
   thumbnailUrl: Luc.jpg
   rockstar: false
   social:
@@ -184,16 +184,21 @@ joined the Biozentrum of the University of Basel as an associate professor in 20
   name: "Joao"
   surname: "Martins"
   company: "SNSF"
-  title: "Data Analyst"
-  bio: ""
+  title: "Data Scientist"
+  bio: "Joao Martins is a data scientist working on science data at the SNSF. He is also chief-editor of <a href='http://www.sciencegeist.com/' target='_blank'>ScienceGeist</a> and former CTO of <a href='https://sciencematters.io/' target='_blank'>ScienceMatters</a>. He received a MEng in Bioinformatics from the INSA Lyon and a PhD in Theoretical Biology from the ETH Zurich."
   thumbnailUrl: Joao.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/rambujo"}
+    - {name: "github", link: "https://github.com/zambujo"}
 -
   id: 18
   name: "Anna"
   surname: "Severin"
   company: "SNSF"
   title: "Researcher"
-  bio: ""
+  bio: "Anna Severin is a doctoral researcher based at the Strategy Support Department of the SNSF looking into open access and the quality of peer review."  
   thumbnailUrl: Anna.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/annasvrn"}

@@ -108,7 +108,7 @@
 -
   id: 011
   title: "Sharing code with rOpenSci"
-  description: ""
+  description: "I will discuss the sharing of code and open code review in the organization rOpenSci. rOpenSci is a non-profit organization that promotes reproducibility in science by providing and enabling software, data access and tutorials for scientific applications."
   subtype: presentation
   speakers: [5]
 -
@@ -138,7 +138,7 @@
 -
   id: 016
   title: "Showcasing research with markdown and friends"
-  description: "Using static website technologies to communicate research ideas in a radically open way."
+  description: "Using static website technologies to communicate research ideas in a radically open way. A workshop to explore out how to create and maintain academic web portfolios using open source software."
   subtype: workshop
   speakers: [17]
 -
@@ -150,7 +150,7 @@
 -
   id: 018
   title: "Short presentation of ScienceGeist"
-  description: "The story of a Swiss Army knife for science policy."
+  description: "Short story of a Swiss Army knife for science policy."
   subtype: presentation
   speakers: [17]
 -
