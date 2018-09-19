@@ -82,12 +82,6 @@
   subtype: presentation
   speakers: [3]
 -
-  id: 007
-  title: "Building a data ecosystem: the open government side"
-  description: "Opendata.swiss is where everyone can find Swiss open government data. Making data open is only partially an “IT matter”: While data are the main product, we also have to deal with legal, organizational and cultural challenges. It is a journey in discovering the potential of our data and making this potential available to anyone, but at the same ensuring that requirements in data protection and quality are met. Where do you start?"
-  subtype: presentation
-  speakers: [16]
--
   id: 008
   title: "Autonomous Scholarly Web"
   description: "In this talk we will discuss the realisation of a social scholarly information space that is completely driven by autonomous and interoperable open Web standards. What are the effects and artefacts of such paradigm? How is it different than the plethora of existing services and platforms? Why would a researcher-centric approach to scholarly communication be desirable?"

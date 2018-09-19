@@ -171,15 +171,6 @@ joined the Biozentrum of the University of Basel as an associate professor in 20
     - {name: "twitter", link: "https://twitter.com/betatim"}
     - {name: "github", link: "https://github.com/betatim"}
 -
-  id: 16
-  name: "Juan Pablo"
-  surname: "Lovato"
-  company: "Swiss Federal Archives"
-  title: "Data Scientist"
-  bio: "Juan Pablo manages the Swiss open government data project for the Swiss Federal Archives and as such he supports federal offices, cantons, communes as well as state-owned companies in making their data openly available."
-  thumbnailUrl: Juan.jpg
-  rockstar: true
--
   id: 17
   name: "Joao"
   surname: "Martins"
@@ -197,7 +188,7 @@ joined the Biozentrum of the University of Basel as an associate professor in 20
   surname: "Severin"
   company: "SNSF"
   title: "Researcher"
-  bio: "Anna Severin is a doctoral researcher based at the Strategy Support Department of the SNSF looking into open access and the quality of peer review."  
+  bio: "Anna Severin is a doctoral researcher based at the Strategy Support Department of the SNSF looking into open access and the quality of peer review."
   thumbnailUrl: Anna.jpg
   rockstar: false
   social:
