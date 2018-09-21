@@ -276,3 +276,5 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "46.95051, 7.43136"
 hackathonMapCenterCoordinates: "46.95051, 7.43136"
 hackathonMapMobileCenterCoordinates: "46.95051, 7.43136"
+
+theme: jekyll-theme-tactile
